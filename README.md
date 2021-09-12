@@ -1,4 +1,4 @@
-# Goal-sorting-and-navigation-with-Turtlebot
+# Goal sorting and navigation with Turtlebot
 
 # Title:
 
