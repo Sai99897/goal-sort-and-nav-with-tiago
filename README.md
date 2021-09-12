@@ -1,3 +1,5 @@
+# Goal-sorting-and-navigation-with-Turtlebot
+
 # Title:
 
 The Repository contains prj_finalerobo package, which includes final.py and the launch file with start.launch.
@@ -32,5 +34,5 @@ The below Figure is the pictorial representation of the algorithm.
  1. https://www.youtube.com/watch?v=mYwIu4OVMR8
  2. http://wiki.ros.org/move_base
  3. http://wiki.ros.org/navigation/Tutorials/SendingSimpleGoals# Goal-sorting-and-navigation-with-Turtlebot
-# Goal-sorting-and-navigation-with-Turtlebot
+
 
