@@ -25,7 +25,7 @@ The goal of this project is to reach as many goals as possible, avoiding the obs
 
 The below Figure is the pictorial representation of the algorithm.
 
-![](https://fbe-gitlab.hs-weingarten.de/stud-amr/2020-ss-master/pg-192090_tier4/-/raw/master/process.png)
+![](https://github.com/Sai99897/goal-sort-and-nav-with-tiago/blob/main/process.png)
 
 # References:
  
