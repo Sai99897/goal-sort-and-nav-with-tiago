@@ -33,4 +33,4 @@ The below Figure is the pictorial representation of the algorithm.
  2. http://wiki.ros.org/move_base
  3. http://wiki.ros.org/navigation/Tutorials/SendingSimpleGoals# Goal-sorting-and-navigation-with-Turtlebot
 # Goal-sorting-and-navigation-with-Turtlebot
-# navigation_with_tiago
+
