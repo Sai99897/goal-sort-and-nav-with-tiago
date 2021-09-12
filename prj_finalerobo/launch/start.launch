@@ -1,0 +1,6 @@
+<launch>
+  <!-- Launching the final project node -->
+  <arg name = "robot_id" default = "robot2"/>
+  <node pkg="prj_finalerobo" type="final_prj.py" name="final_prj" ns="$(arg robot_id)" output="screen">
+  </node>
+</launch>
